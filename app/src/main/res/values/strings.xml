@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CineMania</string>
+    <string name="action_search">search</string>
+    <string name="action_nuevo">settings</string>
+    <string name="action_settings">settings</string>
+    <string name="mi_sala">Mi Sala</string>
+    <string name="mis_estrenos">Mis Estrenos</string>
+    <string name="promociones">Promociones</string>
+    <string name="preguntas_frecuentes">Preguntas Frecuentes</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
